@@ -3,9 +3,9 @@ Team 4
 IoT Homework 3
 
 #Functionalities:
--Turn On/Off Hue Lights
--Switch Modes(Study, Dinner, Sleep) of Lights
--Random Light Brightness
+ * Turn On/Off Hue Lights
+ * Switch Modes(Study, Dinner, Sleep) of Lights
+ * Random Light Brightness
 
 #Video Link For Demo of My Android App HW3
 https://www.youtube.com/watch?v=0A2hb9w-g4c
