@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

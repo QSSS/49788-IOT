@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

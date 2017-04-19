@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/menu/bridgelist.xml",
+        "source": "/Users/zhangquansen/iot/IoT-HW3/app/src/main/res/menu/bridgelist.xml"
+    },
+    {
+        "merged": "/Users/zhangquansen/iot/IoT-HW3/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/zhangquansen/iot/IoT-HW3/app/src/main/res/menu/home.xml"
+    }
+]

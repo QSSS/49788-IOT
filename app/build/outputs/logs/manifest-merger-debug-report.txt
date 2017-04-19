@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangquansen/.android/build-cache/0811d4d87ae46ab6ab2be9554ebb1f8429535c69/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangquansen/.android/build-cache/cc8fe8efa410a5f12ca058d29fef4d755789b78e/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangquansen/.android/build-cache/b50e48ede2eefc43f9f25c8e00d46645c2a55bb2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangquansen/.android/build-cache/8a32547fa03b3b564cfad06c3af6161972c804a6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangquansen/.android/build-cache/22ff39f96317e5c5d051fab7896d6894e02a0a51/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangquansen/.android/build-cache/bdf0f0c8104b6c25b34a662e9e494f6ddbec5d2f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/zhangquansen/.android/build-cache/d68ab923b49fb9463167b198a010707a735e8838/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangquansen/.android/build-cache/3cd6ebdaeced06ff7df4fe2d95cfe6d494938ef5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangquansen/.android/build-cache/f33a6d2912792fbf1285e9b824a2171fc99f2eaf/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:14:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangquansen/.android/build-cache/0811d4d87ae46ab6ab2be9554ebb1f8429535c69/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangquansen/.android/build-cache/cc8fe8efa410a5f12ca058d29fef4d755789b78e/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangquansen/.android/build-cache/b50e48ede2eefc43f9f25c8e00d46645c2a55bb2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangquansen/.android/build-cache/8a32547fa03b3b564cfad06c3af6161972c804a6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangquansen/.android/build-cache/22ff39f96317e5c5d051fab7896d6894e02a0a51/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangquansen/.android/build-cache/bdf0f0c8104b6c25b34a662e9e494f6ddbec5d2f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangquansen/.android/build-cache/3cd6ebdaeced06ff7df4fe2d95cfe6d494938ef5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangquansen/.android/build-cache/f33a6d2912792fbf1285e9b824a2171fc99f2eaf/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:18:9-52
+activity#com.philips.lighting.quickstart.PHHomeActivity
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:20:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.philips.lighting.quickstart.MyApplicationActivity
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:31:13-54
+	android:name
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:30:13-81
+activity#com.philips.lighting.quickstart.PHPushlinkActivity
+ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/zhangquansen/iot/IoT-HW3/app/src/main/AndroidManifest.xml:34:13-78

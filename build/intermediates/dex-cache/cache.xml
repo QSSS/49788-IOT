@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34fa5c3267d536cbbfb6859d89a757fcbad98dc1">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b7602c5da0a6011cc3749825e03659833c1e3b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/b50e48ede2eefc43f9f25c8e00d46645c2a55bb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bf06aabda63140507da8812f3556ee62256f30e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/cc8fe8efa410a5f12ca058d29fef4d755789b78e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9438f2bee92b6e5e7089d432456fda4d8da4e10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/3cd6ebdaeced06ff7df4fe2d95cfe6d494938ef5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40d3c79f5f4d5d5082f336d10a6ab6db2386ba03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_40b49987c87c8d4b44f4e9e0531ef0e935dd8ae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/libs/huesdkresources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7183fbb86900448556ef87d3af0db01a77c27a09">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huesdkresources_5784189fc77a0275eb09926a76bed88ff03d5049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/d68ab923b49fb9463167b198a010707a735e8838/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10aaf886cdf93bb723d6715c8bdf57a4cc5bab3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/f33a6d2912792fbf1285e9b824a2171fc99f2eaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f71fdb5e600a12ba0a25b2be99c34841ff246a07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/libs/huelocalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07362e192094e402e032db4407c86e36080340ab">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huelocalsdk_32a30bb2ca97ce611458791e7ba163f88812176c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/bdf0f0c8104b6c25b34a662e9e494f6ddbec5d2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60c10f7d039c0cc5efdc9567a0225900897843f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/8a32547fa03b3b564cfad06c3af6161972c804a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe49d243dec1b1f6fdb7fac2846f9414d0cfb8ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/0811d4d87ae46ab6ab2be9554ebb1f8429535c69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_972a8dc679e42380a8442c25a4415c95c72b6eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/83eb638945117d6f0c12b41f02a28db0c31a5068/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_466dedcedf983580585caa9fe67a345eacac182e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/.android/build-cache/22ff39f96317e5c5d051fab7896d6894e02a0a51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54af639d8e960cfdde3cdece197d0b71023cdae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangquansen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/zhangquansen/iot/PhilipsHueQuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_ca4102a17055270beb5ebc0eeed2ccee50ff0548/classes.dex" />
+    </item>
+
+</items>
